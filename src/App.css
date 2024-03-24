@@ -1,0 +1,38 @@
+#root {
+  border-radius: 4%;
+  border-style: dashed;
+  border: 3%;
+
+
+  background-color: rgb(156, 154, 221);
+}
+
+
+
+.BMW {
+  font-family: verdana;
+  font-size: large;
+  text-align: center;
+  font-style: italic;
+
+  color: rgb(59, 12, 178);
+}
+
+.KARTICI {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+  font-family: tahoma;
+
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+
+img {
+  width: 270px;
+  height: 200px;
+  border-radius: 15%;
+
+}
